@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // home page
 app.get("/", (req, res) => {
-  res.json({ message: "Something great is happening here!!" });
+   res.sendStatus(200)
 });
 
 
