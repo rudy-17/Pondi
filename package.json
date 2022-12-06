@@ -28,6 +28,6 @@
     "sequelize": "^6.23.0"
   },
   "engines": {
-    "node": "16.`7a"
+    "node": "18.0"
   }
 }
